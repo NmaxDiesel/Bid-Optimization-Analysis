@@ -9,3 +9,5 @@ obj
 req
 
 forgot to ad diagram
+
+reproduce with scientific method
