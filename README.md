@@ -11,3 +11,5 @@ req
 forgot to ad diagram
 
 reproduce with scientific method
+
+add purpose
